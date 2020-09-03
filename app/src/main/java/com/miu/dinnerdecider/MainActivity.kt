@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         foodList.add("Hamburger")
         foodList.add("Pizza")
         foodList.add("Mexican")
-        foodList.add("Amrican")
+        foodList.add("American")
         foodList.add("Chinese")
     }
 
